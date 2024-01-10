@@ -2,10 +2,10 @@
     "name": "react-typescript",
     "version": "1.0.0",
     "type": "module",
-    "description": "React TypeScript on Replit, using Vite bundler",
+    "description": "React TypeScript, using Vite bundler",
     "scripts": {
       "dev": "vite",
-      "build": "tsc && vite build",
+      "build": "vite build",
       "preview": "vite preview"
     },
     "keywords": [],
